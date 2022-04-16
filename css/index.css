@@ -271,7 +271,7 @@ body.light-theme {
 }
 
 .nav__log{
-  color: hsl(207, 59%, 58%);
+  color: var(--first-color);
   font-weight: var(--font-medium);
   transition: 0.4s;
   font-size: 1.2em;
@@ -702,6 +702,11 @@ body.light-theme {
 .work__img {
   border-radius: 1rem;
   margin-bottom: 0.75rem;
+  height: 150px;
+  width: 300px;
+  object-fit: cover;
+  
+
 }
 
 .work__title {
