@@ -1052,3 +1052,14 @@ body.light-theme {
   }
 
 }
+/* iconos */
+.imgIcono{
+  width: 50px;
+  height: 50px;
+}
+#iconosId{
+  display: flex;
+  justify-content: center;
+  margin:auto;
+  flex-wrap: wrap;
+}
