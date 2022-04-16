@@ -1023,6 +1023,7 @@ body.light-theme {
 
   .work__container{
     gap: 3rem;
+    grid-template-columns: repeat(3, max-content);
   }
 
   .work__card{
