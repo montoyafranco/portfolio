@@ -933,7 +933,7 @@ body.light-theme {
   }
 
   .work__img{
-    width: 295px;
+    width: 300px;
   }
 
   
@@ -1037,6 +1037,7 @@ body.light-theme {
 
   .work__img{
     margin-bottom: 1rem;
+    width: 300px;
   }
 
   .work__title{
